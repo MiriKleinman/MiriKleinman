@@ -1,5 +1,5 @@
 
-# Miri Render
+# Miri Rinder
 ### Fullstack Developer
 
 <p align="left">
